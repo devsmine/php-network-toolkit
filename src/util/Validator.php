@@ -1,8 +1,8 @@
 <?php
 
-namespace Devsmine\phpNetTools\util;
+namespace Devsmine\pnet\util;
 
-use Devsmine\phpNetTools\design\StaticObject;
+use Devsmine\pnet\design\StaticObject;
 
 /**
  * Validator is a dynamically extendable class used to validate inputs.
@@ -334,7 +334,7 @@ class Validator {
 		}
 
 		if (self::$rules[$rule]['type'] == 'validator') {
-			$validation = self::_invokeStaticMethod('Devsmine\phpNetTools\util\Validator', self::$rules[$rule]['function'], $passable_args);
+			$validation = self::_invokeStaticMethod('Devsmine\pnet\util\Validator', self::$rules[$rule]['function'], $passable_args);
 		} else if (self::$rules[$rule]['type'] == 'preg_match') {
 			$validation = preg_match(self::$rules[$rule]['rule'], $passable_args[0]);
 		} else if (self::$rules[$rule]['type'] == 'function') {

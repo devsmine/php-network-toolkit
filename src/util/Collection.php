@@ -1,7 +1,7 @@
 <?php
-namespace Devsmine\phpNetTools\util;
+namespace Devsmine\pnet\util;
 
-use Devsmine\phpNetTools\util\Conversions;
+use Devsmine\pnet\util\Conversions;
 
 /**
  * The Collection class acts as a repository for data to be stored, retrieved and iterated over.

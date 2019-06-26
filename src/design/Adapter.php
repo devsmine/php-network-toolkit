@@ -1,7 +1,7 @@
 <?php
-namespace Devsmine\phpNetTools\design;
+namespace Devsmine\pnet\design;
 
-use Devsmine\phpNetTools\util\Log;
+use Devsmine\pnet\util\Log;
 
 trait Adapter {
 

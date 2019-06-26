@@ -1,5 +1,5 @@
 <?php
-namespace Devsmine\phpNetTools\design;
+namespace Devsmine\pnet\design;
 
 /**
  * Singleton is the parent class for implementing Adapters, Observers, Intercepting Filters and

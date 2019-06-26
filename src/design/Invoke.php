@@ -1,5 +1,5 @@
 <?php
-namespace Devsmine\phpNetTools\design;
+namespace Devsmine\pnet\design;
 
 trait Invoke {
 

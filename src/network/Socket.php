@@ -1,7 +1,7 @@
 <?php
-namespace Devsmine\phpNetTools\network;
+namespace Devsmine\pnet\network;
 
-use Devsmine\phpNetTools\design\InstanceObject;
+use Devsmine\pnet\design\InstanceObject;
 
 /**
  * A class for communicating with other services via socket programming.

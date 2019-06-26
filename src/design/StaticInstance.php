@@ -1,7 +1,7 @@
 <?php
-namespace Devsmine\phpNetTools\design;
+namespace Devsmine\pnet\design;
 
-use Devsmine\phpNetTools\util\Collection;
+use Devsmine\pnet\util\Collection;
 
 /**
  *StaticInstance is a hybrid class that combines that usage of static design patterns of Adatper, Obsver and Filter

@@ -1,5 +1,5 @@
 {
-    "name": "devsmine/php-network-toolkit",
+    "name": "devsmine/pnet",
     "description": "Complete PHP Networking Toolkit",
     "type": "library",
     "keywords": ["networking","php","socket"],

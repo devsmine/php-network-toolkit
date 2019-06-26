@@ -1,8 +1,8 @@
 <?php
-namespace Devsmine\phpNetTools\design;
+namespace Devsmine\pnet\design;
 
-use Devsmine\phpNetTools\util\Collection;
-use Devsmine\phpNetTools\util\Log;
+use Devsmine\pnet\util\Collection;
+use Devsmine\pnet\util\Log;
 
 /**
  * StaticObject is an extendable class used to enhance an object with static methods.

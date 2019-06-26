@@ -1,7 +1,7 @@
 <?php
-namespace Devsmine\phpNetTools\util;
+namespace Devsmine\pnet\util;
 
-use Devsmine\phpNetTools\design\StaticObject;
+use Devsmine\pnet\design\StaticObject;
 
 /**
  * Command Line Interface (CLI) utility class.

@@ -1,5 +1,5 @@
 <?php
-namespace Devsmine\phpNetTools\design;
+namespace Devsmine\pnet\design;
 
 /*
  *Copyright 2011 ProdigyView LLC. All rights reserved.

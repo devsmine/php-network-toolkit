@@ -1,5 +1,5 @@
 <?php
-namespace Devsmine\phpNetTools\util;
+namespace Devsmine\pnet\util;
 
 /**
  * Conversions is a class used to convert one data type to another.
@@ -71,7 +71,7 @@ class Conversions {
 		if (is_object($object)) {
 			$object = get_object_vars($object);
 		}
-		return array_map('Devsmine\phpNetTools\util\Conversions::objectToArray', $object);
+		return array_map('Devsmine\pnet\util\Conversions::objectToArray', $object);
 	}
 
 	/**

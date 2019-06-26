@@ -2,7 +2,7 @@
 Complete PHP Networking Toolkit
 ## Socket Server Side.
 ```php
- use Devsmine\phpNetTools\network\Socket;
+ use Devsmine\pnet\network\Socket;
 try{
            $server = new Socket(SERVER_IP, SERVER_PORT, [
                'bind' => true,

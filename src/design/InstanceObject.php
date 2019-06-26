@@ -1,7 +1,7 @@
 <?php
-namespace Devsmine\phpNetTools\design;
+namespace Devsmine\pnet\design;
 
-use Devsmine\phpNetTools\util\Collection;
+use Devsmine\pnet\util\Collection;
 
 /**
  * Object is an extendable class used to enhance an object that can be instantiated.
