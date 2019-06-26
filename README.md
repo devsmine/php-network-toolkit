@@ -1,2 +1,2 @@
 # php-network-toolkit
-Complete PHP Network Toolkit
+Complete PHP Networking Toolkit
