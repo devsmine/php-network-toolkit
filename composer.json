@@ -1,0 +1,15 @@
+{
+    "name": "devsmine/php-network-toolkit",
+    "description": "Complete PHP Networking Toolkit",
+    "type": "library",
+    "keywords": ["networking","php","socket"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nazrul Islam Nadeem",
+            "email": "nzl.nadeem@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
