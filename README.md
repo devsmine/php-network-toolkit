@@ -1,5 +1,8 @@
 # php-network-toolkit
 Complete PHP Networking Toolkit
+
+> composer require devsmine/pnet
+
 ## Socket Server Side.
 ```php
  use Devsmine\pnet\network\Socket;
